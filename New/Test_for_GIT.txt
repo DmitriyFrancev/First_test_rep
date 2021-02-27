@@ -1,1 +1,3 @@
 Test information for Git
+
+Added information
